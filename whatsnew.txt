@@ -1,0 +1,16 @@
+
+Disasteroids 1.3 
+
+What's New
+
+Mouse control
+MP3 player control
+Shields remaining display
+Player rotation speed control
+Player speed limit
+Display gamma control
+Color depth control
+Game volume control
+Hyperspace abuse
+Improved OpenGL basecode
+
